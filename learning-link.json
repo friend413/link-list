@@ -2,5 +2,9 @@
     "go-learning-create-module": {
         "link": "https://go.dev/doc/tutorial/create-module",
         "description": "This is helpful to create module and import in golang"
+    },
+    "how-to-install-go-ubuntu-22.04": {
+        "link": "https://www.cherryservers.com/blog/install-go-ubuntu",
+        "description": "This is helpful to install go and set version on ubuntu 22.04"
     }
 }
